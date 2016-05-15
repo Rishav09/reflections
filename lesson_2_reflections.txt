@@ -1,0 +1,4 @@
+	What happens when you initialize a repository? Why do you need to do it?
+git init initialise the repository and
+first go in that directory which contains all the files you want to add in your directory 
+then git init in that directory
