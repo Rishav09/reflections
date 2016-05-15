@@ -1,0 +1,16 @@
+Diff command as in Linux as I used in git bash helped me to find the bug in my newfile as otherwise
+would have been difficult for me .Earlier I thought diff was just to print the difference but we can also 
+get the error.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in 
+the long term?
+
+
+Future doesn't see the needs of present ,what may be irrelevant today can be the need of tommorow so easy
+access to history is important.
+
+How is the staging area different from the working directory and the repository?
+ What value do you think it offers?
+
+ Staging area provides a temporary place in which we can manipulate the changes we can observe to see
+ in our project	
